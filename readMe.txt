@@ -14,5 +14,5 @@ i am feature1 branch
 add //by branch 'feature1'
 add sec //by branch 'feature1'
 
-haha this is //add by branch 'feature2'
+haha this is add //by branch 'feature2'
 
