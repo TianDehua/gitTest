@@ -16,3 +16,5 @@ remove branch1 'feature1' modify
 add //by branch 'feature1'
 add sec //by branch 'feature1'
 
+haha this is //add by branch 'feature2'
+
