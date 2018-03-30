@@ -16,3 +16,4 @@ add sec //by branch 'feature1'
 
 haha this is add //by branch 'feature2'
 
+i am modify. test stash ok, very good
