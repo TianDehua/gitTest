@@ -14,4 +14,5 @@ Branch 'master' modify.
 remove branch1 'feature1' modify
 
 add //by branch 'feature1'
+add sec //by branch 'feature1'
 
